@@ -1,13 +1,5 @@
-/**
-  |============================
-  | include css partials with
-  | default @import url()
-  |============================
-*/
-/* Common styles */
 @import url('./reset.css');
 @import url('./base.css');
-
 @import url('./loader.css');
 @import url('./search.css');
 @import url('./gallery.css');
